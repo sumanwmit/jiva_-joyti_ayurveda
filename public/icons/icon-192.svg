@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="medGrad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A8F6A" />
+      <stop offset="100%" stop-color="#0B6B50" />
+    </linearGradient>
+    <linearGradient id="leafGrad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="42" fill="url(#medGrad192)" />
+  <circle cx="96" cy="96" r="70" fill="#ffffff" opacity="0.12" />
+  
+  <rect x="81" y="45" width="30" height="102" rx="8" fill="#ffffff" />
+  <rect x="45" y="81" width="102" height="30" rx="8" fill="#ffffff" />
+  
+  <path d="M96 60 C120 60 135 78 135 101 C135 124 112 135 96 135 C80 135 57 124 57 101 C57 78 72 60 96 60 Z" fill="url(#leafGrad192)" opacity="0.9" />
+  <path d="M96 64 Q96 98 96 130" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" fill="none" />
+  <path d="M96 83 Q109 75 120 79" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <path d="M96 98 Q81 90 70 94" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" fill="none" />
+</svg>

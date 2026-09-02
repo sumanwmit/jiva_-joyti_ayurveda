@@ -1,0 +1,6 @@
+{
+  "name": "Jivan Joyti Ayurveda Kendra",
+  "description": "Your Trusted Medical Store for Genuine Medicines, Ayurveda & Healthcare Needs in Masaurhi, Patna, Bihar. Online WhatsApp order and medicine stock checker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
